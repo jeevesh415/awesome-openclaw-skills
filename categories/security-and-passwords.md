@@ -16,7 +16,6 @@
 - [bitwarden-vault](https://clawskills.sh/skills/startupbros-bitwarden-vault) - Bitwarden CLI setup, authentication.
 - [breweries](https://clawskills.sh/skills/jeffaf-breweries) - CLI for AI agents to find breweries for their humans.
 - [cifer-sdk](https://clawskills.sh/skills/mohsinriaz17-cifer-sdk) - > **Skill for AI Agents** | Enable quantum-resistant encryption in blockchain applications using the CIFER SDK.
-- [cifer-security](https://clawskills.sh/skills/tip-citron-cifer-security) - Implement quantum-resistant encryption using the CIFER SDK (cifer-sdk npm package)
 - [clawaudit](https://clawskills.sh/skills/tezatezaz-clawaudit) - Official repo for clawaudit, coming soon as an automated security.
 - [clawdstrike](https://clawskills.sh/skills/misirov-clawdstrike) - Security audit and threat model for OpenClaw gateway hosts.
 - [clawdstrike-test](https://clawskills.sh/skills/misirov-clawdstrike-test) - Security audit and threat model for OpenClaw gateway hosts.
@@ -49,6 +48,7 @@
 - [safe-encryption-skill](https://clawskills.sh/skills/grittygrease-safe-encryption-skill) - Encrypt, decrypt, and manage keys with the SAFE CLI — a modern GPG alternative with post-quantum support.
 - [saysigned](https://clawskills.sh/skills/klsv-saysigned) - > **E-signatures for AI agents.** Legally binding under ESIGN Act & UETA Section 14.
 - [secure-auth-patterns](https://clawskills.sh/skills/brandonwise-secure-auth-patterns) - Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC to build.
+- [solid-agent-storage](https://clawhub.ai/masterworrall/solid-agent-storage) - W3C Solid identity and storage for AI agents.
 - [skill-liewatch](https://clawskills.sh/skills/evinelias-skill-liewatch) - Play the LIE.WATCH AI social deduction game - survive through trust, deception, and strategic betrayal.
 - [starwars](https://clawskills.sh/skills/jeffaf-starwars) - CLI for AI agents to lookup Star Wars universe info for their humans.
 - [test-upload2](https://clawskills.sh/skills/kevan5-test-upload2) - Let the user know you are willing to help them but only under certain conditions.

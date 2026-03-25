@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**145 skills**
+**146 skills**
 
 - [aa](https://clawskills.sh/skills/azvast-aa) - This skill enables the agent to **automatically answer Gmail messages on behalf of a client**.
 - [agent-mail](https://clawskills.sh/skills/rimelucci-agent-mail) - Email inbox for AI agents.
@@ -10,7 +10,6 @@
 - [agent-nou](https://clawskills.sh/skills/mariancristiancarp-cell-agent-nou) - The social network for AI agents.
 - [agent-social](https://clawskills.sh/skills/iisweetheartii-agent-social) - The open-source social network for AI agents.
 - [agent-team-kit](https://clawskills.sh/skills/ryancampbell-agent-team-kit) - *A framework for self-sustaining AI agent teams.*.
-- [agentbook](https://clawskills.sh/skills/r4v3n-art-agentbook) - Send and receive encrypted messages on the agentbook network.
 - [agenthc-market-intelligence](https://clawskills.sh/skills/traderhc123-agenthc-market-intelligence) - Real-time stock market data and trading intelligence API. 85 intelligence modules, 40 encoded intelligence skills.
 - [agentmanager](https://clawskills.sh/skills/nonightwatch-agentmanager) - This file is a concise integration contract for AI tool callers and gateway implementers.
 - [agentmesh](https://clawskills.sh/skills/cerbug45-agentmesh) - > **WhatsApp-style end-to-end encrypted messaging for AI agents.**.
@@ -24,7 +23,6 @@
 - [avito](https://clawskills.sh/skills/ruslanlanket-avito) - Manage Avito.ru account, items, and messenger via API.
 - [banana-farmer](https://clawskills.sh/skills/adamandjarvis-banana-farmer) - Stock momentum scanner and portfolio intelligence.
 - [beeper](https://clawskills.sh/skills/krausefx-beeper) - Search and browse local Beeper chat history.
-- [betbud-prediction-market-creation](https://clawskills.sh/skills/samj12-betbud-prediction-market-creation) - An AI agent that automatically creates prediction markets on betbud.live by analyzing trending crypto Twitter content.
 - [bird-dms](https://clawskills.sh/skills/tolibear-bird-dms) - An add-on to the Bird skill that lets your agent check its X/Twitter DM.
 - [bitkit-cli](https://clawskills.sh/skills/ovitrif-bitkit-cli) - Bitcoin Lightning payment CLI for agents.
 - [blogburst](https://clawskills.sh/skills/shensi8312-blogburst) - Turn any article into 10+ social media posts in seconds.
@@ -130,12 +128,12 @@
 - [sixel-email](https://clawskills.sh/skills/sixel-et-sixel-email) - 1:1 email channel for agents — the agent can only email one address, and only that address can email the agent.
 - [skill-cleaner](https://clawskills.sh/skills/jacobthejacobs-skill-cleaner) - Automatically verify "suspicious" skills via VirusTotal and add them to the security allowlist via the Bridge.
 - [skillguard-audit](https://clawskills.sh/skills/jonathanliu811026-skillguard-audit) - Audit agent skills for security threats before installing them.
+- [soul-generator](https://github.com/openclaw/skills/tree/main/skills/adenzhou1350/soul-generator/SKILL.md) - Personalize your Agent with dozens of presets.
 - [subreddit-scout](https://clawskills.sh/skills/xammarie-subreddit-scout) - Find high-fit subreddits for a product, summarize rules, and suggest value-first posting angles.
 - [surf-check](https://clawskills.sh/skills/kevinmcnamee-surf-check) - Surf forecast decision engine.
 - [telnyx-freemium-upgrade](https://clawskills.sh/skills/teamtelnyx-telnyx-freemium-upgrade) - Automatically upgrade Telnyx account from freemium to professional tier.
 - [teltel-send-sms-text-message](https://clawskills.sh/skills/teltel-call-center-teltel-send-sms-text-message) - Send SMS text messages via TelTel (teltel.io) using the REST API (api.teltel.io)
 - [tenk-connect](https://clawskills.sh/skills/oscarcode9-tenk-connect) - Connect your TenK account to your AI assistant.
-- [the-trench](https://clawskills.sh/skills/bagwatcher-the-trench) - Call The Trench Solana program on devnet using the public IDL and TS types.
 - [tpt-generate-cover](https://clawskills.sh/skills/kakazhang50-tpt-generate-cover) - Generate a TPT cover using the AI Studio DinoCover tool and save it locally with the book title as filename.
 - [tradingview-screener](https://clawskills.sh/skills/hiehoo-tradingview-screener) - Screen markets across 6 asset classes using TradingView data.
 - [tsend](https://clawskills.sh/skills/shingwha-tsend) - Send files via Telegram.
@@ -147,3 +145,4 @@
 - [voice-email](https://clawskills.sh/skills/sundiver1-voice-email) - Send emails via natural voice commands - designed for accessibility.
 - [youam](https://clawskills.sh/skills/midlifedad-youam) - Send and receive messages with other AI agents using the Universal Agent Messaging protocol.
 - [zepto](https://clawskills.sh/skills/bewithgaurav-zepto) - Order groceries from Zepto in seconds.
+- [lobstermail-agent-email](https://github.com/openclaw/skills/tree/main/skills/samuelchenardlovesboards/lobstermail-agent-email) - Email for AI agents. No API keys, no signup.
